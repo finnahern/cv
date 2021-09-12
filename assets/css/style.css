@@ -260,3 +260,28 @@ footer {
     margin-bottom: 15px;
 }
 
+/* -- Skills -- */
+
+.skills-icon {
+    font-size: 26px;
+    color: #9b59b6;
+}
+
+.progress {
+    position: relative;
+    height: 25px;
+    margin-bottom: 4px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    padding: 3px 10px 3px 10px;
+    font-weight: 400;
+    color: #fafafa;
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+.progress-section {
+    margin: 40px 20px;
+}
